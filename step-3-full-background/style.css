@@ -1,0 +1,16 @@
+
+.canvas-container {
+  position: absolute;
+  top: 0;
+  left: 0;
+
+  z-index: -1;
+}
+
+.my-canvas {
+  /* intentionally empty */
+}
+
+.container {
+  background-color: rgba(256, 256, 256, 0.9);
+}
