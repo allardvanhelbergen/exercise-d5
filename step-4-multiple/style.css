@@ -1,0 +1,13 @@
+.canvas-container {
+  text-align: center;
+}
+
+.sketch-canvas {
+    border: 1px solid gray;
+}
+
+.sketch-canvas:hover {
+  -webkit-box-shadow: 0px 0px 30px 5px rgba(0, 0, 0, 0.5);
+  -moz-box-shadow: 0px 0px 30px 5px rgba(0, 0, 0, 0.5);
+  box-shadow: 0px 0px 30px 5px rgba(0, 0, 0, 0.5);
+}
